@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 # CSF_-Lab03
 Lab Report Book
+
                                     #Aim
 To be able to have a clear understanding of Python’s control structures, including conditional statements, loops, break and continue statements, and functions, and to be able to apply this knowledge in an efficient manner in order to solve structured programming problems.
 
@@ -115,7 +116,7 @@ A number gets checked inside a repeated process. One after another, they pass th
 24.Menu-driven calculator
 Pick what to do - add numbers, take one away, make them bigger by multiplying, split into parts with division, stop when ready. Run it again and again unless stopping is chosen. Each time show choices so picking works smoothly. After doing math, go back to start if continuing. Only leave once exit gets picked.
 
-git status
-=======
+
+
 # CSF_-Lab03
->>>>>>> 4080dddb89ba6922af70f702a0a85daa3af3a432
+
