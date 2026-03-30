@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CSF_-Lab03
 Lab Report Book
                                     #Aim
@@ -113,3 +114,6 @@ A number gets checked inside a repeated process. One after another, they pass th
 
 24.Menu-driven calculator
 Pick what to do - add numbers, take one away, make them bigger by multiplying, split into parts with division, stop when ready. Run it again and again unless stopping is chosen. Each time show choices so picking works smoothly. After doing math, go back to start if continuing. Only leave once exit gets picked.
+=======
+# CSF_-Lab03
+>>>>>>> 4080dddb89ba6922af70f702a0a85daa3af3a432
